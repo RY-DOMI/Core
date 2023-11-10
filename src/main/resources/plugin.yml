@@ -1,0 +1,4 @@
+name: LaborCore
+author: LaborMC
+version: 1.0-BETA
+main: net.labormc.core.plugin.CorePlugin
